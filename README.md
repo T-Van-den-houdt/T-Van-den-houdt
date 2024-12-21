@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @T-Van-den-houdt
 - 👀 I’m interested in software engineering and data science
-- 🌱 I’m currently learning Python, Web-dev and SQL
+- 🌱 I love AI/Data stuff, Full-stack web dev and am currently learning more about game development
 - 📫 You can reach me on discord @buuuldog
 
 <!---
